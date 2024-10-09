@@ -43,18 +43,9 @@ section div {
 p {
   line-height: 1.5;
   text-align: center;
-  display: inline-block;
 }
 
-ol {
-    list-style-position: inside;    
-    text-align: center;
-}
 
-ul {
-    list-style-position: inside;    
-    text-align: center;
-}
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
