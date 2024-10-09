@@ -46,6 +46,17 @@ p {
   list-style-position: inside;
 }
 
+.center
+{
+ text-align: center;
+ list-style-position: inside;
+}
+ol.center li
+{
+ text-align: left;
+ margin-left: 45%;
+}
+
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
