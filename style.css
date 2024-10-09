@@ -32,14 +32,12 @@ h6 {
 section {
   padding: 50px 0;
   text-align: center
-  display: inline-block;
 }
 
 
 section div {
   text-align: center;
   width: 100%;
-  display: inline-block;
 }
 
 p {
@@ -53,11 +51,14 @@ ol {
     text-align: center;
 }
 
+ul {
+    list-style-position: inside;    
+    text-align: center;
+}
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
   width: 600px;
-  text-align: center;
 }
 
 img {
