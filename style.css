@@ -32,12 +32,14 @@ h6 {
 section {
   padding: 50px 0;
   text-align: center
+  display: inline-block;
 }
 
 
 section div {
   text-align: center;
   width: 100%;
+  display: inline-block;
 }
 
 p {
