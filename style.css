@@ -48,6 +48,14 @@ p {
   display: inline-block;
 }
 
+div.container {
+  text-align: center;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
