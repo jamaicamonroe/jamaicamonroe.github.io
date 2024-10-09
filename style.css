@@ -49,6 +49,9 @@ p {
   text-align: center;
 }
 
+li {
+  text-align: center;
+}
 
 /* The div container constrains the content width within the main container to 600px */
 div {
