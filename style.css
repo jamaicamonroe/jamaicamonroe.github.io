@@ -32,11 +32,14 @@ h6 {
 section {
   padding: 50px 0;
   text-align: center;
+  display: block;
+  margin: 0 auto;
 }
 
 article {
   text-align: center;
-  list-style-position: inside;
+  display: block;
+  margin: 0 auto;
 }
 
 section div {
@@ -54,15 +57,10 @@ p {
 li {
   text-align: center;
   display: block;
-  margin: 0 auto;
-  
+  margin: 0 auto;  
 }
 
-.artfacts {
-  text-align: center;
-  display: block;
-  margin: 0 auto;
-}
+
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
