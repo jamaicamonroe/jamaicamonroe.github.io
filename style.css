@@ -55,8 +55,7 @@ p {
   margin: 0 auto;
 }
 
-ul {
-line-height: 1.5;
+li {
   text-align: center;
   display: block;
   margin: 0 auto;
@@ -67,6 +66,7 @@ div {
   margin: auto;
   width: 600px;
   text-align: center;
+  display: block;
 }
 
 img {
