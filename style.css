@@ -52,6 +52,13 @@ ol {
      padding:0;
 }
 
+ul{
+   text-align: left;
+   display: list-item; 
+   padding:0;
+}
+  
+
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
