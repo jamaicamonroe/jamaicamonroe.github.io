@@ -55,10 +55,11 @@ p {
   margin: 0% auto;
 }
 
-li {
+ul {
   text-align: center;
   display: block;
   margin: 0% auto;
+  list-style-position:inside;
 }
 
 /* The div container constrains the content width within the main container to 600px */
