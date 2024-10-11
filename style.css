@@ -49,14 +49,14 @@ li {
 ol {
      text-align: left;
      display: list-item; 
-     padding:0;
+     padding: 10px;
      margin: 3;
 }
 
 ul{
    text-align: left;
    display: list-item; 
-   padding:0;
+   padding:10px;
    margin: 0;
 }
   
