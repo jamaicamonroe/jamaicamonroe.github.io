@@ -41,7 +41,8 @@ p {
   text-align: center;
 }
 
-ul li { text-align:center; 
+ul li { 
+       text-align:center; 
        list-style-position:inside;
       }
 
