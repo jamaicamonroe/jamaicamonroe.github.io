@@ -45,6 +45,10 @@ li {
      margin: 0;
      list-style: none;
       }
+ol {
+     text-align: left;
+     padding:0;
+}
 
 /* The div container constrains the content width within the main container to 600px */
 div {
