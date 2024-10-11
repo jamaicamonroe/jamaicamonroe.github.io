@@ -51,6 +51,7 @@ li {
        text-align:center; 
        list-style-position:inside;
        margin: 0;
+       display: block;
       }
 
 /* The div container constrains the content width within the main container to 600px */
