@@ -19,6 +19,8 @@ body {
 
 footer {
   text-align: center;
+  display: block;
+  list-style-position: inside;
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
