@@ -7,7 +7,7 @@ header {
 }
 
 nav {
-  text-align: center
+  text-align: center;
 }
 body {
   color: #003049;
@@ -55,12 +55,16 @@ div {
   margin: auto;
   width: 600px;
   text-align: center;
+  display: block;
+  margin: 0 auto;
 }
 
 img {
   width: 100%;
   max-width: 200px;
   height: auto;
+  display: block;
+  margin: 0 auto;
   
 }
 
@@ -74,6 +78,8 @@ hr {
   border-radius: 50%;
   border: 2px solid  #003049;
   text-align: center;
+  display: block;
+  margin: 0 auto;
 }
 a {
   color: #d62828
