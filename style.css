@@ -44,6 +44,9 @@ article {
 
 p {
   text-align: center;
+  display: block;
+  list-style-position: inside;
+  margin: 0 auto;
 }
 
 ul {
