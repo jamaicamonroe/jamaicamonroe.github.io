@@ -62,6 +62,10 @@ ul {
   list-style-position:inside;
 }
 
+ol {
+   list-style-position:inside;
+}
+
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
