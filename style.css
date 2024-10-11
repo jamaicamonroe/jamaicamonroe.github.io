@@ -47,6 +47,11 @@ ul   {
        margin: 0;
       }
 
+li {
+       text-align:center; 
+       list-style-position:inside;
+       margin: 0;
+      }
 
 /* The div container constrains the content width within the main container to 600px */
 div {
