@@ -43,13 +43,11 @@ p {
 
 ul   { 
        text-align:left; 
-       list-style-position:inside;
        margin: 0;
       }
 
 li {
        text-align:left; 
-       list-style-position:inside;
        margin: 0;
        display: block;
       }
