@@ -64,6 +64,7 @@ div {
   width: 600px;
   text-align: center;
   display: block;
+  list-style-position:inside;
 }
 
 img {
