@@ -39,13 +39,6 @@ p {
   text-align: left;
 }
 
-ul   { 
-       text-align:left; 
-       padding: 0;
-       margin: 0;
-       list-style: none;
-      }
-
 li {
      text-align:left; 
      padding: 0;
@@ -58,6 +51,7 @@ div {
   margin: auto;
   width: 600px;
   display: table;
+  text-align: left;
 }
 
 img {
@@ -84,4 +78,3 @@ a:hover {
   color: #f77f00
 }
 
-}
