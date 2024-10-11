@@ -37,24 +37,21 @@ section {
 
 p {
   text-align: left;
-  list-style-position:outside;
 }
 
 ul   { 
        text-align:left; 
-       list-style-position:outside;
       }
 
 li {
        text-align:left; 
-       list-style-position: outside;
       }
 
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
   width: 600px;
-  text-align: left;
+  text-align: center;
 }
 
 img {
