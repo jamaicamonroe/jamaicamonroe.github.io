@@ -41,10 +41,16 @@ p {
 
 ul   { 
        text-align:left; 
+       padding: 0;
+       margin: 0;
+       list-style: none;
       }
 
 li {
-       text-align:left; 
+     text-align:left; 
+     padding: 0;
+     margin: 0;
+     list-style: none;
       }
 
 /* The div container constrains the content width within the main container to 600px */
