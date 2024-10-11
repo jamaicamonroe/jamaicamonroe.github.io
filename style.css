@@ -43,13 +43,12 @@ p {
 
 ul   { 
        text-align:left; 
-       margin: 0;
+       list-style-position:inside;
       }
 
 li {
        text-align:left; 
-       margin: 0;
-       display: block;
+    
       }
 
 /* The div container constrains the content width within the main container to 600px */
