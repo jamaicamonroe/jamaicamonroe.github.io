@@ -42,7 +42,7 @@ p {
 }
 
 ul   { 
-       text-align:center; 
+       text-align:left; 
        list-style-position:inside;
        margin: 0;
       }
